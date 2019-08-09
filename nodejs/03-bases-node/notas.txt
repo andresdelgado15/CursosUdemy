@@ -1,0 +1,14 @@
+
+
+Importamos la librerias desde nodejs dependeindo la version en la que estemos
+nos vamos a la documentacion de nodejs
+luego abrimos File System & importamos le require fs
+ luego buscamos  el archivo '' fs.writeFileSync(file, data[, options]) ''
+ he importamos el codigo que hay aparece para crear archivos txt
+
+../ directorio anterior
+./ desde la raiz
+npm init  ( para crear el archivo. json) referencia a las dependencias librerias o paquetes para ser ejecutadas
+npm yargs
+npm install para instalar los paquetes de nodejs
+npm install --save-dev nodemon para que trabaje de forma local en el proyecto
